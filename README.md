@@ -2,4 +2,4 @@
 
 - [Original Brand Guidelines](https://loosecookie.github.io/styleguide/styleguide.pdf)
 
-- [Updated Brand Guidelines](https://github.com/loosecookie/styleguide/BrandGuidelines.pdf)
+- [Updated Brand Guidelines](https://loosecookie.github.io/styleguide/BrandGuidelines.pdf)
