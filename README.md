@@ -1,4 +1,5 @@
 # Style Guide
 
-Here is a copy of my personal brand's style guide
-- [Style guide](https://loosecookie.github.io/styleguide/styleguide.pdf)
+- [Original Brand Guidelines](https://loosecookie.github.io/styleguide/styleguide.pdf)
+
+- [Updated Brand Guidelines (https://loosecookie.github.io/styleguide/brandguidelines.pdf)]
